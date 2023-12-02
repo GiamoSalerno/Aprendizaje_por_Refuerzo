@@ -1,3 +1,6 @@
+from collections import defaultdict
+import numpy as np
+
 class BlackjackAgent:
     def __init__(self,
                  learning_rate: float,

@@ -3,9 +3,9 @@ from typing import Optional
 
 import numpy as np
 
-import gym
-from gym import spaces
-from gym.error import DependencyNotInstalled
+import gymnasium as gym
+from gymnasium import spaces
+from gymnasium.error import DependencyNotInstalled
 
 
 def cmp(a, b):
