@@ -25,7 +25,7 @@ Este repositorio contiene material teórico y práctico para la clase de aprendi
 2. **Práctica**
    - **Ejemplo de Q-Learning**
      - Implementación simple.
-   - **Uso de Gym en Blackjack**
+   - **Uso de Blackjack en Gymnasium**
      - Aplicación práctica en un entorno estándar.
    - **Ejemplo de SARSA en Frozen Lake**
      - Abordaje de un problema más complejo.
