@@ -1,3 +1,5 @@
+![portada](img\portada.png)
+
 # Aprendizaje por Refuerzo
 
 Este repositorio contiene material teórico y práctico para la clase de aprendizaje por refuerzo de Data Science (DS2309). El objetivo es proporcionar a los estudiantes una comprensión sólida de los fundamentos del aprendizaje por refuerzo y permitirles aplicar estos conceptos mediante ejemplos prácticos.
@@ -56,7 +58,7 @@ Este repositorio contiene material teórico y práctico para la clase de aprendi
 
 # Autor
 
-Giacomo Salerno
+Ciro Giacomo Salerno Escuela
 
 # Licencia
 
