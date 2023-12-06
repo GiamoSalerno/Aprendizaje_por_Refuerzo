@@ -1,4 +1,4 @@
-![portada](img\portada.png)
+![portada](img/portada.png)
 
 # Aprendizaje por Refuerzo
 
