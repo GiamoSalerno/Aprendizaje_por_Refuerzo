@@ -59,7 +59,3 @@ Este repositorio contiene material teórico y práctico para la clase de aprendi
 # Autor
 
 Ciro Giacomo Salerno Escuela
-
-# Licencia
-
-Este proyecto está bajo la licencia MIT.
